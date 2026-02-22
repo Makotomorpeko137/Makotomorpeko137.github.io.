@@ -1,0 +1,22 @@
+<html> 
+    <head>
+        <title> klany </title>
+	<style>
+		body{
+			background-color: #93bf85;
+			font-family: "Old English Text MT", "EngraversOldEnglishBT-Regular", serif;
+			color: #1a1a1a;
+		}
+	</style>
+    </head>
+    <body>
+		<h3> Gofs </h3>
+		<p>Gof nie kocha niczego bardziej niż łomotu spluw i tego satysfakcjonującego, mokrego chrupnięcia, gdy jego choppa wgryza się głęboko w gardziel lub klatę wroga. Wykorzystają każdą wymówkę, by zacząć bójkę, nawet między sobą – często wystarczy błędnie zinterpretowane spojrzenie lub mruknięta obelga, by pięści poszły w ruch. Chłopaki szybko zapominają o przyczynie dymu, po prostu ciesząc się z samej walki. Ta preferencja do niemal sempiternych bójek we własnym gronie służy też praktycznemu celowi między bitwami: utrzymuje ich w gotowości jako specjalistów od walki wręcz, bo wolą toczyć wojny blisko i osobiście.</p>
+
+		<p>Bandami zdominowanymi przez Gofów rządzi straszna reputacja z powodu samej liczby orkowej piechoty, jaką mobilizują na wojnę. Wystarczy cień szansy na dobrą bitkę, a Gofy zjawiają się tłumnie, lgnąc do każdego Warbossa, który obieca im okazję do otwierania czaszek. Przez ich umiłowanie do walki wręcz, Gofy wolą bić się na piechotę, zazwyczaj łapiąc stopa na mijanych Trukkach tylko po to, by wyskoczyć bliżej wroga i wbić się w niego tak szybko, jak to możliwe. Nie ma tu miejsca na żadną prokrastynację w drodze do rzezi. </p>
+
+		<p>Oddziały Gofów liczą zazwyczaj dziesiątki głów, a prawdziwa horda Gofów ma w swoim sercu całe mnóstwo Chłopaków, więc gdy Gofy idą na wojnę, ziemia drży od tupotu podkutych butów. Wrogowie często interpretują tę taktykę hordy jako sposób na przytłoczenie obrony i wliczanie strat w koszty ataku. Bardziej prawdopodobne jest jednak to, że każdy indywidualny Gof po prostu podąża za resztą swojej bandy, słusznie rozumując, że skoro Ork szarżuje przez pole bitwy, to na drugim końcu na pewno będzie co zaatakować. To prosta dychotomia: albo szarżujesz, albo nie jesteś Orkiem.</p>
+
+		<p>Gofy używają głowy byka jako emblematu klanu, czując pokrewieństwo z porywczymi, głośnymi i cierpiącymi na gazy bestiami. Rogate hełmy są postrzegane jako symbol agresji klanu i mogą służyć jako podręczna broń, czyniąc „z byka” jeszcze bardziej brutalnym. Ubierają się głównie na czarno, uznając, że strojenie się w pstrokaty szpan jest „dla cieniasów i Madboyzów”. Choć czasem dekorują swój szpej szachownicami, Gofy brzydzą się ideą kamuflażu. Nie tylko uważają celowe chowanie się przed walką za tchórzostwo, ale też nie potrafią pojąć, dlaczego jakikolwiek Ork mógłby nie chcieć „spróbować sił”. Ich indyferencja wobec bezpieczeństwa jest legendarna.</p>
+
+	<p>Wszystkie inne klany postrzegają jako gorsze, a większość Gofów uważa lordonie nad innymi Chłopakami za swoje prawo nadane przez Gorka. Z tego powodu wielu Warbossów i Nobów to Gofy – ich zamiłowanie do obijania facjat czyni ich naturalnymi liderami z talentem do trzymania niesfornych band w ryzach. Gofy mają też straszną reputację w jamach walki. Powiedzenie „Gof jest zawsze wart swoich zębów” wzięło się stąd, jak trudno ich pokonać – wśród plemion wiadomo, że stawianie zębów na Gofa to zawsze sprytny plan. Gofy jednak traktują zarabianie zębów na walkach tylko jako produkt uboczny. Jak każdy szanujący się Gof powie swoim Chłopakom: „walczenie o zęby to jedna rzecz, ale prawdziwy Gof powinien zawsze chcieć rozwalać mordy za darmo”. <p/>
